@@ -1,0 +1,4 @@
+package-as: Masque_Kenzo
+
+required-dependencies:
+    - masque
